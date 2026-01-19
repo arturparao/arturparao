@@ -10,11 +10,9 @@ Specialized in building **data pipelines**, **analytical dashboards**, and **mod
 
 ### Data Engineering
 - **Python**, **SQL**
-- **Apache Airflow** (orchestration)
 - **dbt** (transformation)
 - **AWS** (Redshift, S3, IAM)
 - **ETL / ELT Pipelines**
-- **Kimball Dimensional Modeling Architecture**
 - **Data Quality & Observability**
 - **Docker**
 
