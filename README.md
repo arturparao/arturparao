@@ -28,26 +28,6 @@ Specialized in building **data pipelines**, **analytical dashboards**, and **mod
 
 ---
 
-## 💼 Projects
-
-- **Stack Modernization**  
-  Migration of **80+ tables** from legacy systems to a modern architecture  
-  *(Airflow + dbt + Redshift)*
-
-- **Near Real-Time Pipelines**  
-  Processing every **5 minutes** with automatic **data quality validation**
-
-- **Industrial Dashboard**  
-  Analytical solution that led to **industrial cost reduction**
-
-- **Budget Dashboard**  
-  BI solution for **budget planning and financial control**
-
-- **Data Observability**  
-  Monitoring and alert system for **data integrity and reliability**
-
----
-
 ## 🎓 Education
 
 - **Postgraduate in Full Stack Web Developer**  
