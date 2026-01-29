@@ -63,3 +63,4 @@ Completed: 10/2024
 
 - 📧 Email: paraoartur@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/artur-mazer-parao-7aa579226](https://www.linkedin.com/in/artur-mazer-parao-7aa579226)
+- 🧠 LeetCode: [leetcode.com/u/aparao](https://leetcode.com/u/aparao/)
